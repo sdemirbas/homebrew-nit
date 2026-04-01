@@ -1,6 +1,6 @@
 cask "nit" do
-  version "1.3.1"
-  sha256 "d26f5e5cad9cc13d1958b4227b364d8501d96120cb797393c7da62872419597d"
+  version "1.3.2"
+  sha256 "891014b17003261963c26e40ced35b52bcca0c6b28c8f73ef26ebbc7f7b6892a"
 
   url "https://github.com/sdemirbas/Nit/releases/download/v#{version}/Nit-#{version}.zip"
   name "Nit"
